@@ -1,6 +1,6 @@
 # icons-template
 
-根据 svg 生成 vue3 组件的模板库。
+根据 svg 生成 vue3 icon组件的模板库。
 
 基于 [element-plus-icons](https://github.com/element-plus/element-plus-icons) 的 `35b91fd484b4cb0904cf0818e2734ad22160a787` 版本改造。
 
