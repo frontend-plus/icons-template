@@ -1,0 +1,22 @@
+{
+  "bumpFiles": [
+    {
+      "filename": "packages/vue/package.json",
+      "type": "json"
+    },
+    {
+      "filename": "packages/svg/package.json",
+      "type": "json"
+    }
+  ],
+  "packageFiles": [
+    {
+      "filename": "packages/vue/package.json",
+      "type": "json"
+    },
+    {
+      "filename": "packages/svg/package.json",
+      "type": "json"
+    }
+  ]
+}

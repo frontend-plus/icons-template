@@ -1,0 +1,20 @@
+{
+  "name": "@element-plus/icons-playground",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@your-icons-name/icons-svg": "workspace:*",
+    "@your-icons-name/icons-vue": "workspace:*",
+    "vue": "^3.2.31"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "typescript": "^4.6.3",
+    "vite": "^2.9.1"
+  }
+}
